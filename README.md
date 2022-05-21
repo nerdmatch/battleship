@@ -35,3 +35,9 @@ Push the commit to the server:
 ```
 % git push origin main
 ```
+
+Get rid of generated files:
+
+```
+% make clean
+```
